@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Background circle -->
+  <circle cx="100" cy="90" r="70" fill="#1a3a2a"/>
+
+  <!-- Cannabis plant (simplified) -->
+  <g fill="none" stroke="#8b4f7a" stroke-width="3" stroke-linecap="round">
+    <!-- Stem -->
+    <line x1="100" y1="60" x2="100" y2="180"/>
+
+    <!-- Top leaves -->
+    <path d="M100 65 Q85 50 70 55 Q80 60 90 65"/>
+    <path d="M100 65 Q115 50 130 55 Q120 60 110 65"/>
+    <path d="M100 55 Q90 35 80 40 Q88 48 95 55"/>
+    <path d="M100 55 Q110 35 120 40 Q112 48 105 55"/>
+    <path d="M100 50 Q100 30 95 25 Q100 35 100 50"/>
+
+    <!-- Middle leaves -->
+    <path d="M100 90 Q80 75 65 80 Q78 85 92 90"/>
+    <path d="M100 90 Q120 75 135 80 Q122 85 108 90"/>
+
+    <!-- Lower leaves -->
+    <path d="M100 120 Q75 110 60 115 Q78 118 95 120"/>
+    <path d="M100 120 Q125 110 140 115 Q122 118 105 120"/>
+
+    <!-- Bottom leaves -->
+    <path d="M100 150 Q70 145 55 150 Q75 150 95 150"/>
+    <path d="M100 150 Q130 145 145 150 Q125 150 105 150"/>
+  </g>
+
+  <!-- Stars -->
+  <polygon points="100,12 103,20 111,20 105,25 107,33 100,28 93,33 95,25 89,20 97,20" fill="none" stroke="#c17840" stroke-width="1.5"/>
+  <polygon points="150,60 152,65 157,65 153,68 155,73 150,70 145,73 147,68 143,65 148,65" fill="none" stroke="#c17840" stroke-width="1.5"/>
+  <polygon points="45,70 47,75 52,75 48,78 50,83 45,80 40,83 42,78 38,75 43,75" fill="none" stroke="#c17840" stroke-width="1.2"/>
+  <polygon points="155,120 157,124 161,124 158,127 159,131 155,128 151,131 152,127 149,124 153,124" fill="none" stroke="#5a5a5a" stroke-width="1.2"/>
+  <polygon points="40,155 42,160 47,160 43,163 44,168 40,165 36,168 37,163 33,160 38,160" fill="none" stroke="#5a5a5a" stroke-width="1.5"/>
+  <polygon points="130,25 131,28 134,28 132,30 133,33 130,31 127,33 128,30 126,28 129,28" fill="none" stroke="#c9a84c" stroke-width="1"/>
+  <polygon points="80,35 81,38 84,38 82,40 83,43 80,41 77,43 78,40 76,38 79,38" fill="none" stroke="#c9a84c" stroke-width="1"/>
+</svg>
